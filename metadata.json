@@ -1,0 +1,7 @@
+{
+  "name": "InsightLens — Powered by Gemini",
+  "description": "An AI-powered evidence and insight explorer using Gemini multimodal reasoning and Google Search grounding to analyze documents, evaluate claims, and verify facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

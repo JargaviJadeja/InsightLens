@@ -168,39 +168,6 @@ GEMINI_API_KEY=your_api_key_here
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/JargaviJadeja/InsightLens.git
-cd InsightLens
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure the environment
-
-Create a `.env` file and add your Gemini API key:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-The available development scripts are defined in `package.json`.
-
----
-
 ## 🌐 Live Demo
 
 ### [Launch InsightLens](https://insightlens-jv.ai.studio)
@@ -209,17 +176,7 @@ Try the live application to upload a document, extract claims, challenge asserti
 
 ---
 
-## 📸 Screenshots
 
-Screenshots of the following application features will be added here:
-
-- Main analysis dashboard
-- Challenge Mode
-- Claim verification results
-- Ask InsightLens
-- Evidence and source presentation
-
----
 
 ## 🎯 Project Motivation
 
